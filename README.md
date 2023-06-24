@@ -17,7 +17,7 @@ This repository contains a very structured and clean code for asynchronous examp
    `cd fastapi-project`
 3. Create a virtual environment
 
-   `python -m venv venv`
+   `python3 -m venv venv`
 4. Activate virtualenv
 
    `source venv/bin/activate`
@@ -34,7 +34,7 @@ This repository contains a very structured and clean code for asynchronous examp
    Or Start the app using Uvicorn:
 
    ```shell
-   uvicorn app.main:app --reload --workers 1 --host 0.0.0.0 --port 8002
+   uvicorn app.main:app --reload --workers 1 --host 0.0.0.0 --port 8000
    ```
 
 7. I have used sqlite in this project. But, you can use any database as per required. 
