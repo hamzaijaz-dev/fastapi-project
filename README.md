@@ -1,6 +1,6 @@
 # FastAPI Project
 
-[![CodeQL](https://github.com/hamzaijaz-dev/fastapi-project/actions/workflows/codeql.yml/badge.svg)](https://github.com/KenMwaura1/Fast-Api-example/actions/workflows/codeql.yml)
+[![CodeQL](https://github.com/hamzaijaz-dev/fastapi-project/actions/workflows/codeql.yml/badge.svg)](https://github.com/hamzaijaz-dev/fastapi-project/blob/main/.github/workflows/codeql.yml)
 
 This repository contains a very structured and clean code for asynchronous example api using the [FastAPI](https://fastapi.tiangolo.com/), [Uvicorn](https://www.uvicorn.org/) Server and [Sqlite](https://www.sqlite.org/index.html) Database to perform crud operations on blog posts. This will help you to learn about FastAPI Framework.
 
